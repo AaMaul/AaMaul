@@ -56,4 +56,4 @@
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaMaul&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaMaul&theme=blue-green)
