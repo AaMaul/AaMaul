@@ -12,14 +12,13 @@
 - 🎓 I am one of the outstanding participant graduates in Candradimuka Jabar Coding Camp 2022 program West Java Government
 - 📫 You can reach me in my email at arimaulanaagustina@gmail.com
 
-## ⚡ Tech Stack
-
 ### 👨‍💻 Work Experience : 
 - PT. Roda Prima Lancar 2016 - 2019 as a Production Operator, as a Raw Material Admin, as a HRGA Admin
 - PT. Oxiensoft Digital Solusi Utama 2019 as a Programmer IT Front End Web PHP and Javascript
 - PT. Moojol Indonesia 2019 as a Programmer IT Front End Web PHP and Javascript
 - PT. Thelockerid 2022 (Freelancer) as a Programmer IT Wordpress Developer
 
+## ⚡ Tech Stack
 
 ### 🚀 Languages
 
