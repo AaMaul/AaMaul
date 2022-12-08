@@ -1,19 +1,22 @@
 ### Welcome to my profile 👋
 
 
-- 💻 Experienced in Wordpress Developer Project since 2020 as an Android Developer since 2022
+- 💻 Experienced in Wordpress Developer Project since 2020 and as Android Developer since 2022
 - 🕵 The way I code is I always make sure the code is clean architecture and following the lints with the standard guidelines
-- 🔭 I’m currently working on PT. Hartanah Group as Progammer IT
+- 🔭 I’m currently working on PT. Hartanah Group as Programmer IT (Wrodpress Developer and Mobile Developer)
 - 🌱 I love to study even more the details about techinical in computer stuff and Mobile Development
 - 🎯 I learn a lot in this field but I choose Mobile Development as my speciality because it's my dream since I was sitting in high school
 - 🔍 I'm currently studying Swift and Dart more elaborately
 - 👯 I do collaborate with a friends that can produce more product for better future
-- 🎓 I am a Bachelor Degree in Informatics Engineering (Planning to take Master Degree ASAP)
-- 📚 My thesis was IoT and Mobile Development related so I know fundamentals of IoT like Arduino and Raspberry Pi too
+- 🎓 I am a Bachelor Degree in System Information graduate of University Bina Sarana Informatika
+- 🎓 I am one of the outstanding participant graduates in Candradimuka Jabar Coding Camp 2022 program West Java Government
 - 📫 You can reach me in my email at arimaulanaagustina@gmail.com
-- ⚡ Fun fact: I am a great person to talk about technical in computer engineering, I'm also a former of Indonesian Overclocker
+- ⚡ Work Experience :
+      - PT. Roda Prima Lancar 2016 - 2019 as a Production Operator, as a Raw Material Admin, as a HRGA Admin
+      - PT. Oxiensoft Digital Solusi Utama 2019 as a Programmer IT Front End Web PHP and Javascript
+      - PT. Moojol Indonesia 2019 as a Programmer IT Front End Web PHP and Javascript
+      - PT. Thelockerid 2022 (Freelancer) as a Programmer IT Wordpress Developer
 
-## ⚡ Tech Stack
 
 ### 🚀 Languages
 
