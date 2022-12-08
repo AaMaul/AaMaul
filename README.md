@@ -57,3 +57,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaMaul&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AaMaul&theme=blue-green)
